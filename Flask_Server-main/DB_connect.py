@@ -10,7 +10,7 @@ class DB_connect:
             host="211.62.99.58",
             port=3326,
             user="root",
-            password="1234",
+            password="",
             db="mlops_db",
             charset="utf8",
         )
